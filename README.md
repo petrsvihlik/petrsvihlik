@@ -12,4 +12,4 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=petrsvihlik&show_icons=true)
 
-![Stack Overflow stats](https://stackoverflow.com/users/flair/1332034.png)
+[![Stack Overflow stats](https://stackoverflow.com/users/flair/1332034.png)](https://stackoverflow.com/users/1332034/rocky)
