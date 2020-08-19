@@ -1,6 +1,6 @@
 ### Hey, I'm ~Petr~ but people call me Rocky
 
-- ❤️ I'm into .NET, open-source, [music](https://en.wikipedia.org/wiki/Mike_Oldfield), [driving cars](https://en.wikipedia.org/wiki/Audi), running, and most importantly [traveling the world with my girlfriend](https://i.imgur.com/5GUz14z.png)!
+- ❤️ I'm into .NET, open-source, [music](https://en.wikipedia.org/wiki/Mike_Oldfield), [driving cars](https://en.wikipedia.org/wiki/Audi), running, and above all [traveling the world with my girlfriend](https://i.imgur.com/5GUz14z.png)!
 - 🔭 I’m currently working on a new blog post series on Developer Relations ([subscribe here](https://medium.com/@PetrSvihlik/) to be the first to hear)
 - 🌱 I’m currently learning [Statiq](https://github.com/statiqdev/Statiq.Framework)
 - 👯 I’m looking to collaborate on [WopiHost](https://github.com/petrsvihlik/WopiHost/)
