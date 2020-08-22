@@ -7,7 +7,7 @@
 - 🤔 I’m looking for help with load testing the [Kontent Delivery SDK for .NET v14.0.0-rc1](https://github.com/Kentico/kontent-delivery-sdk-net/releases/tag/14.0.0-rc1)
 - 💬 Ask me about [Whole30](https://whole30.com/)
 - 📫 How to reach me:  [@petrsvihlik](https://twitter.com/PetrSvihlik)
-- 📖 My blogs: [Dev/Technical](https://dev.to/petrsvihlik) [Life](https://medium.com/@PetrSvihlik/)
+- 📖 I write about [Development](https://dev.to/petrsvihlik) and [Life](https://medium.com/@PetrSvihlik/)
 - ⚡ Fun fact: [Why Rocky?](http://rangercentral.com/database/1993_mightymorphin/images/mmpr-rg-rocky.jpg)
 
 
