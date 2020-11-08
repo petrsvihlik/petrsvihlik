@@ -1,10 +1,10 @@
 ### Hey, I'm ~Petr~ but people call me Rocky
 
 - ❤️ I'm into .NET, open-source, [music](https://en.wikipedia.org/wiki/Mike_Oldfield), [driving cars](https://en.wikipedia.org/wiki/Audi), running, and above all [traveling the world with my girlfriend](https://i.imgur.com/5GUz14z.png)!
-- 🔭 I’m currently working on [Roslyn Source Generators](https://github.com/petrsvihlik/kontent-source-generator) for Kentico Kontent.
-- 🌱 I’m currently learning [Statiq](https://github.com/statiqdev/Statiq.Framework)
+- 🌱 I’m currently learning [Statiq](https://github.com/statiqdev/Statiq.Framework) by building my [personal portfolio](http://petrsvihlik.com/) page using it.
+- 🔭 I’m currently working on integrating [Project Tye](https://github.com/petrsvihlik/WopiHost/pull/105) in the [WopiHost](https://github.com/petrsvihlik/WopiHost/) project
 - 👯 I’m looking to collaborate on [WopiHost](https://github.com/petrsvihlik/WopiHost/)
-- 🤔 I’m looking for help with load testing the [Kontent Delivery SDK for .NET v14.0.0-rc1](https://github.com/Kentico/kontent-delivery-sdk-net/releases/tag/14.0.0-rc1)
+- 🤔 I’m looking for help with promoting Jamstack among the .NET community
 - 💬 Ask me about [Whole30](https://whole30.com/)
 - 📫 How to reach me:  [@petrsvihlik](https://twitter.com/PetrSvihlik)
 - 📖 I write about [Development](https://dev.to/petrsvihlik) and [Life](https://medium.com/@PetrSvihlik/)
