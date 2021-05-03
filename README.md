@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on integrating [Project Tye](https://github.com/petrsvihlik/WopiHost/pull/105) in the [WopiHost](https://github.com/petrsvihlik/WopiHost/) project
 - 👯 I’m looking to collaborate on [WopiHost](https://github.com/petrsvihlik/WopiHost/)
 - 🤔 I’m looking for help with promoting Jamstack among the .NET community
-- 💬 Ask me about [Whole30](https://whole30.com/)
+- 💬 Ask me about [Whole30](https://whole30.com/) and 🧊🚿 cold showers
 - 📫 How to reach me:  [@petrsvihlik](https://twitter.com/PetrSvihlik)
 - 📖 I write about [Development](https://dev.to/petrsvihlik) and [Life](https://medium.com/@PetrSvihlik/)
 - ⚡ Fun fact: [Why Rocky?](http://rangercentral.com/database/1993_mightymorphin/images/mmpr-rg-rocky.jpg)
